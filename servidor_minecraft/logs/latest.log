@@ -1,196 +1,47 @@
-[19:24:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:24:21] [ServerMain/WARN]: Missing data pack paper
-[19:24:24] [ServerMain/INFO]: Loaded 7 recipes
-[19:24:24] [ServerMain/INFO]: Loaded 1271 advancements
-[19:24:25] [Server thread/INFO]: Starting minecraft server version 1.20.3
-[19:24:25] [Server thread/INFO]: Loading properties
-[19:24:25] [Server thread/INFO]: Default game type: SURVIVAL
-[19:24:25] [Server thread/INFO]: Generating keypair
-[19:24:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:24:26] [Server thread/INFO]: Using epoll channel type
-[19:24:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:24:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:24:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:24:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:24:26] [Server thread/INFO]: Preparing level "world"
-[19:24:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [8, 3], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [9, 3], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [10, 3], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [8, 4], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [9, 4], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [10, 4], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [8, 5], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [9, 5], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [10, 5], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [7, 3], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [7, 4], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [7, 5], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [6, 3], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [6, 4], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [6, 5], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [5, 3], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [5, 4], discarding
-[19:24:34] [Server thread/WARN]: Found reference to unknown structure 'minecraft:trial_chambers' in chunk [5, 5], discarding
-[19:24:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:24:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:18] [Worker-Main-1/INFO]: Preparing spawn area: 4%
-[19:25:18] [Worker-Main-1/INFO]: Preparing spawn area: 15%
-[19:25:18] [Worker-Main-1/INFO]: Preparing spawn area: 31%
-[19:25:18] [Server thread/WARN]: Skipping BlockEntity with id minecraft:vault
-[19:25:19] [Worker-Main-1/INFO]: Preparing spawn area: 80%
-[19:25:22] [Server thread/INFO]: Time elapsed: 50170 ms
-[19:25:22] [Server thread/INFO]: Done (56.089s)! For help, type "help"
-[19:28:29] [Server thread/INFO]: chinojp69[/100.127.66.65:61869] logged in with entity id 217 at (113.5, 65.0, 88.5)
-[19:28:29] [Server thread/INFO]: chinojp69 joined the game
-[19:28:43] [Server thread/INFO]: chinojp69 lost connection: Disconnected
-[19:28:43] [Server thread/INFO]: chinojp69 left the game
-[19:29:21] [Server thread/INFO]: chinojp69[/100.127.66.65:61902] logged in with entity id 437 at (127.11256323299413, 65.0, 70.16374765909028)
-[19:29:21] [Server thread/INFO]: chinojp69 joined the game
-[19:29:53] [Server thread/INFO]: chinojp69 lost connection: Disconnected
-[19:29:53] [Server thread/INFO]: chinojp69 left the game
-[19:35:26] [Server thread/INFO]: chinojp69[/100.127.66.65:62384] logged in with entity id 584 at (127.55627011501342, 64.0, 112.14582208570816)
-[19:35:26] [Server thread/INFO]: chinojp69 joined the game
-[19:36:45] [Server thread/INFO]: chinojp69 was slain by Zombie
-[19:37:09] [Server thread/INFO]: Made chinojp69 a server operator
-[19:37:20] [Server thread/INFO]: [chinojp69: Set the time to 1000]
-[19:37:58] [Server thread/INFO]: chinojp69 was slain by Zombie
-[19:38:05] [Server thread/INFO]: [chinojp69: Set own game mode to Creative Mode]
-[19:39:31] [Server thread/WARN]: chinojp69 moved too quickly! 6.899766865307811,0.0,8.423846895946767
-[19:39:42] [Server thread/WARN]: chinojp69 moved too quickly! 7.860091547089951,0.0,7.534804398172213
-[19:39:53] [Server thread/WARN]: chinojp69 moved too quickly! 7.861731651455557,0.0,7.533245964567641
-[19:44:06] [Server thread/INFO]: [Not Secure] <chinojp69> 1486
-[19:44:10] [Server thread/INFO]: [Not Secure] <chinojp69> 63
-[19:44:15] [Server thread/INFO]: [Not Secure] <chinojp69> 312
-[19:48:09] [Server thread/INFO]: [chinojp69: Successfully filled 5592 block(s)]
-[19:48:36] [Server thread/INFO]: [chinojp69: Set the time to 1000]
-[19:55:46] [Server thread/INFO]: [chinojp69: Successfully filled 20748 block(s)]
-[19:56:02] [Server thread/INFO]: [chinojp69: Successfully filled 20731 block(s)]
-[20:02:00] [Server thread/INFO]: [chinojp69: Successfully filled 1482 block(s)]
-[20:02:06] [Server thread/INFO]: [chinojp69: Successfully filled 1480 block(s)]
-[20:05:16] [Server thread/INFO]: [chinojp69: Successfully filled 1482 block(s)]
-[20:08:45] [Server thread/INFO]: [chinojp69: Successfully filled 1482 block(s)]
-[20:09:55] [Server thread/INFO]: [chinojp69: Successfully filled 1482 block(s)]
-[20:10:05] [Server thread/INFO]: [chinojp69: Successfully filled 1482 block(s)]
-[20:10:14] [Server thread/INFO]: [chinojp69: Successfully filled 1482 block(s)]
-[20:12:56] [Server thread/INFO]: [chinojp69: Successfully filled 468 block(s)]
-[20:13:34] [Server thread/INFO]: [chinojp69: Successfully filled 444 block(s)]
-[20:14:02] [Server thread/INFO]: [chinojp69: Successfully filled 456 block(s)]
-[20:14:26] [Server thread/INFO]: [chinojp69: Successfully filled 432 block(s)]
-[20:14:58] [Server thread/INFO]: [chinojp69: Successfully filled 1482 block(s)]
-[20:15:19] [Server thread/INFO]: [chinojp69: Successfully filled 1482 block(s)]
-[20:15:45] [Server thread/INFO]: [chinojp69: Successfully filled 1332 block(s)]
-[20:16:24] [Server thread/INFO]: chinojp69 has made the advancement [Ice Bucket Challenge]
-[20:17:23] [Server thread/INFO]: [chinojp69: Successfully filled 906 block(s)]
-[20:17:47] [Server thread/INFO]: [chinojp69: Successfully filled 726 block(s)]
-[20:18:26] [Server thread/INFO]: [chinojp69: Successfully filled 193 block(s)]
-[20:21:58] [Server thread/INFO]: chinojp69 has made the advancement [We Need to Go Deeper]
-[20:22:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5522ms or 110 ticks behind
-[20:26:42] [Server thread/INFO]: chinojp69 has made the advancement [Monster Hunter]
-[20:27:48] [Server thread/INFO]: [chinojp69: Successfully filled 1332 block(s)]
-[20:29:02] [Server thread/INFO]: [chinojp69: Successfully filled 396 block(s)]
-[20:29:22] [Server thread/INFO]: [chinojp69: Successfully filled 418 block(s)]
-[20:33:45] [Server thread/INFO]: [chinojp69: Successfully filled 1295 block(s)]
-[20:34:15] [Server thread/INFO]: [chinojp69: Successfully filled 1296 block(s)]
-[20:42:43] [Server thread/INFO]: chinojp69 has made the advancement [Diamonds!]
-[20:43:03] [Server thread/INFO]: chinojp69 has made the advancement [Acquire Hardware]
-[20:55:58] [Server thread/INFO]: chinojp69 has made the advancement [Cover Me with Diamonds]
-[20:56:10] [Server thread/INFO]: chinojp69 has made the advancement [Suit Up]
-[20:57:10] [Server thread/INFO]: chinojp69 has made the advancement [Isn't It Iron Pick]
-[21:03:04] [Server thread/INFO]: chinojp69 has made the advancement [Sweet Dreams]
-[21:05:23] [Server thread/INFO]: [chinojp69: Set own game mode to Survival Mode]
-[21:05:39] [Server thread/INFO]: [chinojp69: Gave 999999 experience points to chinojp69]
-[21:05:52] [Server thread/INFO]: chinojp69 was killed
-[21:05:52] [Server thread/INFO]: [chinojp69: Killed chinojp69]
-[21:06:20] [Server thread/INFO]: [chinojp69: Gave 999 experience points to chinojp69]
-[21:09:19] [Server thread/INFO]: chinojp69 lost connection: Disconnected
-[21:09:19] [Server thread/INFO]: chinojp69 left the game
+[03:04:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:04:54] [ServerMain/INFO]: Loaded 7 recipes
+[03:04:54] [ServerMain/INFO]: Loaded 1271 advancements
+[03:04:55] [Server thread/INFO]: Starting minecraft server version 1.20.3
+[03:04:55] [Server thread/INFO]: Loading properties
+[03:04:55] [Server thread/INFO]: Default game type: SURVIVAL
+[03:04:55] [Server thread/INFO]: Generating keypair
+[03:04:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:04:55] [Server thread/INFO]: Using epoll channel type
+[03:04:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:04:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:04:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:04:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:04:55] [Server thread/INFO]: Preparing level "world"
+[03:05:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:05:12] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[03:05:12] [Worker-Main-3/INFO]: Preparing spawn area: 88%
+[03:05:12] [Server thread/INFO]: Time elapsed: 10064 ms
+[03:05:12] [Server thread/INFO]: Done (16.867s)! For help, type "help"
+[03:05:12] [Server thread/INFO]: chinojp69 (/100.127.66.65:55712) lost connection: Disconnected
+[03:05:15] [Server thread/INFO]: chinojp69[/100.127.66.65:55718] logged in with entity id 110 at (1443.8949286615245, 63.0, 342.52091794498074)
+[03:05:15] [Server thread/INFO]: chinojp69 joined the game
+[03:05:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[03:07:55] [Server thread/INFO]: [chinojp69: Set own game mode to Creative Mode]
+[03:09:04] [Server thread/INFO]: [chinojp69: Set own game mode to Survival Mode]
+[03:09:09] [Server thread/INFO]: [chinojp69: Set own game mode to Creative Mode]
+[03:09:21] [Server thread/INFO]: [chinojp69: Set own game mode to Survival Mode]
+[03:13:03] [Server thread/INFO]: [chinojp69: Set own game mode to Creative Mode]
+[03:15:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3733ms or 74 ticks behind
