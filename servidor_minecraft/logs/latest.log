@@ -1,47 +1,44 @@
-[03:04:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:04:54] [ServerMain/INFO]: Loaded 7 recipes
-[03:04:54] [ServerMain/INFO]: Loaded 1271 advancements
-[03:04:55] [Server thread/INFO]: Starting minecraft server version 1.20.3
-[03:04:55] [Server thread/INFO]: Loading properties
-[03:04:55] [Server thread/INFO]: Default game type: SURVIVAL
-[03:04:55] [Server thread/INFO]: Generating keypair
-[03:04:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:04:55] [Server thread/INFO]: Using epoll channel type
-[03:04:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:04:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:04:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:04:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:04:55] [Server thread/INFO]: Preparing level "world"
-[03:05:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:05:12] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[03:05:12] [Worker-Main-3/INFO]: Preparing spawn area: 88%
-[03:05:12] [Server thread/INFO]: Time elapsed: 10064 ms
-[03:05:12] [Server thread/INFO]: Done (16.867s)! For help, type "help"
-[03:05:12] [Server thread/INFO]: chinojp69 (/100.127.66.65:55712) lost connection: Disconnected
-[03:05:15] [Server thread/INFO]: chinojp69[/100.127.66.65:55718] logged in with entity id 110 at (1443.8949286615245, 63.0, 342.52091794498074)
-[03:05:15] [Server thread/INFO]: chinojp69 joined the game
-[03:05:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
-[03:07:55] [Server thread/INFO]: [chinojp69: Set own game mode to Creative Mode]
-[03:09:04] [Server thread/INFO]: [chinojp69: Set own game mode to Survival Mode]
-[03:09:09] [Server thread/INFO]: [chinojp69: Set own game mode to Creative Mode]
-[03:09:21] [Server thread/INFO]: [chinojp69: Set own game mode to Survival Mode]
-[03:13:03] [Server thread/INFO]: [chinojp69: Set own game mode to Creative Mode]
-[03:15:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3733ms or 74 ticks behind
+[03:30:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:30:09] [ServerMain/INFO]: Loaded 7 recipes
+[03:30:09] [ServerMain/INFO]: Loaded 1271 advancements
+[03:30:10] [Server thread/INFO]: Starting minecraft server version 1.20.3
+[03:30:10] [Server thread/INFO]: Loading properties
+[03:30:10] [Server thread/INFO]: Default game type: SURVIVAL
+[03:30:10] [Server thread/INFO]: Generating keypair
+[03:30:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:30:10] [Server thread/INFO]: Using epoll channel type
+[03:30:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:30:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:30:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:30:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:30:10] [Server thread/INFO]: Preparing level "world"
+[03:30:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:30:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:26] [Server thread/INFO]: Time elapsed: 6958 ms
+[03:30:26] [Server thread/INFO]: Done (15.798s)! For help, type "help"
+[03:30:27] [Server thread/INFO]: chinojp69[/100.127.66.65:57473] logged in with entity id 109 at (1423.3649944892086, 71.0, 352.4524992619158)
+[03:30:27] [Server thread/INFO]: chinojp69 joined the game
+[03:30:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2382ms or 47 ticks behind
+[03:30:44] [Server thread/INFO]: chinojp69 was killed
+[03:30:44] [Server thread/INFO]: [chinojp69: Killed chinojp69]
+[03:30:53] [Server thread/INFO]: [chinojp69: Set own game mode to Creative Mode]
+[03:36:38] [Server thread/INFO]: chinojp69 has made the advancement [Hot Stuff]
+[03:38:28] [Server thread/INFO]: [chinojp69: Set own game mode to Survival Mode]
+[03:43:36] [Server thread/INFO]: chinojp69 lost connection: Disconnected
+[03:43:36] [Server thread/INFO]: chinojp69 left the game
+[03:43:44] [Server thread/INFO]: Stopping server
+[03:43:44] [Server thread/INFO]: Saving players
+[03:43:44] [Server thread/INFO]: Saving worlds
