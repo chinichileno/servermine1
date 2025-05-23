@@ -1,79 +1,50 @@
-[02:24:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:24:49] [ServerMain/INFO]: Loaded 7 recipes
-[02:24:50] [ServerMain/INFO]: Loaded 1271 advancements
-[02:24:51] [Server thread/INFO]: Starting minecraft server version 1.20.3
-[02:24:51] [Server thread/INFO]: Loading properties
-[02:24:51] [Server thread/INFO]: Default game type: SURVIVAL
-[02:24:51] [Server thread/INFO]: Generating keypair
-[02:24:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:24:51] [Server thread/INFO]: Using epoll channel type
-[02:24:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:24:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:24:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:24:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:24:51] [Server thread/INFO]: Preparing level "world"
-[02:24:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:25:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:25:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:25:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:25:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:25:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:25:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:25:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:25:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:25:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:25:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:25:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:25:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:25:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:25:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:25:04] [Server thread/INFO]: Time elapsed: 6987 ms
-[02:25:04] [Server thread/INFO]: Done (13.450s)! For help, type "help"
-[02:25:55] [Server thread/INFO]: chinojp69[/100.127.66.65:55810] logged in with entity id 111 at (1466.6434798734595, 71.0, 313.5904260987619)
-[02:25:55] [Server thread/INFO]: chinojp69 joined the game
-[02:25:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2858ms or 57 ticks behind
-[02:26:35] [Server thread/INFO]: Zerochileno[/100.101.251.42:59676] logged in with entity id 435 at (115.5, 65.0, 87.5)
-[02:26:35] [Server thread/INFO]: Zerochileno joined the game
-[02:26:55] [Server thread/INFO]: [chinojp69: Teleported Zerochileno to chinojp69]
-[02:28:48] [Server thread/INFO]: Zerochileno has made the advancement [Cover Me with Diamonds]
-[02:29:22] [Server thread/INFO]: Zerochileno has made the advancement [Isn't It Iron Pick]
-[02:36:34] [Server thread/INFO]: Made Zerochileno a server operator
-[02:36:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:36:54] [Server thread/INFO]: opchinojp69<--[HERE]
-[02:37:08] [Server thread/INFO]: [Zerochileno: Set the time to 1000]
-[02:38:21] [Server thread/INFO]: [chinojp69: Set own game mode to Creative Mode]
-[02:38:33] [Server thread/INFO]: [chinojp69: Set own game mode to Survival Mode]
-[02:46:47] [Server thread/INFO]: [Zerochileno: Set the time to 1000]
-[02:56:08] [Server thread/INFO]: [chinojp69: Set the time to 1000]
-[02:59:07] [Server thread/INFO]: chinojp69 has made the advancement [A Seedy Place]
-[02:59:17] [Server thread/INFO]: Zerochileno has made the advancement [A Seedy Place]
-[03:05:28] [Server thread/INFO]: [chinojp69: Set the time to 1000]
-[03:14:19] [Server thread/INFO]: [Zerochileno: Set the weather to clear]
-[03:14:35] [Server thread/INFO]: [Not Secure] <Zerochileno> weather clear
-[03:15:06] [Server thread/INFO]: [chinojp69: Set the time to 1000]
-[03:17:42] [Server thread/INFO]: [Not Secure] <chinojp69> 38
-[03:24:28] [Server thread/INFO]: [Not Secure] <chinojp69> 38
-[03:24:29] [Server thread/INFO]: [chinojp69: Set the time to 1000]
-[03:35:10] [Server thread/INFO]: [Zerochileno: Set the time to 1000]
-[03:46:51] [Server thread/INFO]: [Zerochileno: Set the time to 1000]
-[03:46:58] [Server thread/INFO]: Zerochileno has made the advancement [Monster Hunter]
-[03:56:34] [Server thread/INFO]: [chinojp69: Set the time to 1000]
-[04:00:02] [Server thread/WARN]: Zerochileno moved too quickly! -10.093562196979065,1.2491870787446828,-0.9341618880391707
-[04:05:43] [Server thread/INFO]: [chinojp69: Set the time to 1000]
-[04:09:30] [Server thread/INFO]: chinojp69 has made the advancement [The Parrots and the Bats]
-[04:16:31] [Server thread/INFO]: [Zerochileno: Set the time to 1000]
-[04:16:31] [Server thread/INFO]: [chinojp69: Set the time to 1000]
-[04:26:08] [Server thread/INFO]: [chinojp69: Set the time to 1000]
-[04:31:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2820ms or 56 ticks behind
-[04:31:34] [Server thread/INFO]: Zerochileno has made the advancement [We Need to Go Deeper]
-[04:32:00] [Server thread/INFO]: Zerochileno has made the advancement [Stone Age]
-[04:32:14] [Server thread/INFO]: chinojp69 has made the advancement [Stone Age]
-[04:36:13] [Server thread/INFO]: [Zerochileno: Set the time to 1000]
-[04:40:57] [Server thread/INFO]: chinojp69 lost connection: Disconnected
-[04:40:57] [Server thread/INFO]: chinojp69 left the game
-[04:41:57] [Server thread/INFO]: chinojp69[/100.127.66.65:61386] logged in with entity id 29681 at (1521.1234983516742, 63.0, 384.4923808108107)
-[04:41:57] [Server thread/INFO]: chinojp69 joined the game
-[04:44:47] [Server thread/INFO]: chinojp69 lost connection: Disconnected
-[04:44:47] [Server thread/INFO]: chinojp69 left the game
-[04:44:58] [Server thread/INFO]: Zerochileno lost connection: Disconnected
-[04:44:58] [Server thread/INFO]: Zerochileno left the game
+[02:28:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:28:51] [ServerMain/INFO]: Loaded 7 recipes
+[02:28:51] [ServerMain/INFO]: Loaded 1271 advancements
+[02:28:53] [Server thread/INFO]: Starting minecraft server version 1.20.3
+[02:28:53] [Server thread/INFO]: Loading properties
+[02:28:53] [Server thread/INFO]: Default game type: SURVIVAL
+[02:28:53] [Server thread/INFO]: Generating keypair
+[02:28:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:28:53] [Server thread/INFO]: Using epoll channel type
+[02:28:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:28:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:28:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:28:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:28:53] [Server thread/INFO]: Preparing level "world"
+[02:29:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:29:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:13] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[02:29:13] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:29:14] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[02:29:14] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[02:29:15] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[02:29:15] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[02:29:16] [Server thread/INFO]: Time elapsed: 12670 ms
+[02:29:16] [Server thread/INFO]: Done (22.470s)! For help, type "help"
+[02:29:17] [Server thread/INFO]: Zerochileno[/100.101.251.42:49255] logged in with entity id 95 at (1501.3489966850673, 64.0, 438.57477796211805)
+[02:29:17] [Server thread/INFO]: Zerochileno joined the game
+[02:29:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6338ms or 126 ticks behind
+[02:29:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:29:31] [Server thread/INFO]: hola<--[HERE]
+[02:29:39] [Server thread/INFO]: [Not Secure] [Server] hola
+[02:29:48] [Server thread/INFO]: [Not Secure] [Server] como esta el pete de mierda ?
+[02:37:20] [Server thread/INFO]: [Zerochileno: Set the time to 1000]
