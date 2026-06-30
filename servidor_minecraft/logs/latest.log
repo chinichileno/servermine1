@@ -1,0 +1,127 @@
+[01:32:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:32:22] [ServerMain/INFO]: Loaded 7 recipes
+[01:32:22] [ServerMain/INFO]: Loaded 1271 advancements
+[01:32:23] [Server thread/INFO]: Starting minecraft server version 1.20.3
+[01:32:23] [Server thread/INFO]: Loading properties
+[01:32:23] [Server thread/INFO]: Default game type: SURVIVAL
+[01:32:23] [Server thread/INFO]: Generating keypair
+[01:32:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:32:23] [Server thread/INFO]: Using epoll channel type
+[01:32:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:32:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:32:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:32:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:32:23] [Server thread/INFO]: Preparing level "world"
+[01:32:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:32:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:32:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:32:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:32:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:32:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:32:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:32:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:32:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:32:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:32:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:32:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:32:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:32:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:32:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:32:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:32:38] [Server thread/INFO]: Time elapsed: 7407 ms
+[01:32:38] [Server thread/INFO]: Done (14.538s)! For help, type "help"
+[01:32:38] [Server thread/INFO]: chinojp69[/100.71.102.83:57025] logged in with entity id 107 at (1483.2561464748633, 70.0, 471.4740625105494)
+[01:32:38] [Server thread/INFO]: chinojp69 joined the game
+[01:32:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
+[01:34:02] [Server thread/INFO]: Zerochileno[/100.101.251.42:57505] logged in with entity id 577 at (1508.611318352099, 64.0, 444.2511643729735)
+[01:34:02] [Server thread/INFO]: Zerochileno joined the game
+[01:36:39] [Server thread/INFO]: Zerochileno has made the advancement [Sweet Dreams]
+[01:43:41] [Server thread/INFO]: [Not Secure] <chinojp69> cuando vamos a comer pizza?
+[01:43:45] [Server thread/INFO]: [Not Secure] <chinojp69> que te devo la wea po
+[01:49:38] [Server thread/INFO]: chinojp69 fell from a high place
+[01:57:43] [Server thread/WARN]: Oak Boat (vehicle of chinojp69) moved wrongly! 1.1415047013952062
+[01:57:43] [Server thread/WARN]: Oak Boat (vehicle of chinojp69) moved wrongly! 1.1840761010282677
+[01:57:43] [Server thread/WARN]: Oak Boat (vehicle of Zerochileno) moved wrongly! 0.9925455413663258
+[01:57:43] [Server thread/WARN]: Oak Boat (vehicle of Zerochileno) moved wrongly! 0.9925455413663258
+[01:57:43] [Server thread/WARN]: Oak Boat (vehicle of Zerochileno) moved wrongly! 0.9925455413663258
+[01:57:43] [Server thread/WARN]: Oak Boat (vehicle of Zerochileno) moved wrongly! 0.9925455413663258
+[01:57:43] [Server thread/WARN]: Oak Boat (vehicle of Zerochileno) moved wrongly! 0.6342884734262952
+[01:57:43] [Server thread/WARN]: Oak Boat (vehicle of Zerochileno) moved wrongly! 0.27329382834818716
+[01:57:43] [Server thread/WARN]: Oak Boat (vehicle of Zerochileno) moved wrongly! 0.3075163260825775
+[01:57:43] [Server thread/WARN]: Oak Boat (vehicle of chinojp69) moved wrongly! 0.3878028660280961
+[01:57:43] [Server thread/WARN]: Oak Boat (vehicle of chinojp69) moved wrongly! 0.41652809316815365
+[01:57:43] [Server thread/WARN]: Oak Boat (vehicle of chinojp69) moved wrongly! 0.8097884736810101
+[01:57:44] [Server thread/WARN]: Oak Boat (vehicle of chinojp69) moved wrongly! 0.3035407802069585
+[01:57:44] [Server thread/WARN]: Oak Boat (vehicle of chinojp69) moved wrongly! 0.49592867674232366
+[02:05:20] [Server thread/INFO]: Zerochileno has made the advancement [Best Friends Forever]
+[02:07:04] [Server thread/INFO]: Villager cev['Villager'/13426, l='ServerLevel[world]', x=886.92, y=117.00, z=-1276.48] died, message: 'Villager froze to death'
+[02:07:28] [Server thread/INFO]: Villager cev['Villager'/13427, l='ServerLevel[world]', x=894.06, y=124.00, z=-1272.68] died, message: 'Villager froze to death'
+[02:09:32] [Server thread/WARN]: Oak Boat (vehicle of Zerochileno) moved wrongly! 0.26472392045025117
+[02:11:02] [Server thread/INFO]: [chinojp69: Set own game mode to Creative Mode]
+[02:11:18] [Server thread/INFO]: [Zerochileno: Set own game mode to Creative Mode]
+[02:11:20] [Server thread/INFO]: Villager cev['Nitwit'/13421, l='ServerLevel[world]', x=902.60, y=125.00, z=-1267.59] died, message: 'Nitwit froze to death'
+[02:11:22] [Server thread/WARN]: chinojp69 moved too quickly! 9.53753000452889,0.0,24.327635373709086
+[02:11:25] [Server thread/WARN]: chinojp69 moved too quickly! 11.3421606719387,0.0,23.367580228608148
+[02:11:28] [Server thread/WARN]: chinojp69 moved too quickly! 8.341684279069568,0.0,23.455458844328604
+[02:11:28] [Server thread/WARN]: Zerochileno moved too quickly! 3.613770484930228,0.0,10.27111537903761
+[02:11:30] [Server thread/WARN]: chinojp69 moved too quickly! 5.178176685853714,0.0,15.453882574452948
+[02:11:30] [Server thread/WARN]: Zerochileno moved too quickly! 3.5109144554437535,0.0,10.066882557876852
+[02:11:31] [Server thread/WARN]: chinojp69 moved too quickly! 3.544840383661949,-2.0569479217357696,10.134969712668191
+[02:12:25] [Server thread/INFO]: [chinojp69: Teleported Zerochileno to chinojp69]
+[02:12:39] [Server thread/INFO]: [Zerochileno: Set own game mode to Survival Mode]
+[02:12:43] [Server thread/INFO]: [chinojp69: Set own game mode to Survival Mode]
+[02:12:59] [Server thread/INFO]: [chinojp69: Set Zerochileno's game mode to Creative Mode]
+[02:12:59] [Server thread/INFO]: [chinojp69: Set own game mode to Creative Mode]
+[02:13:15] [Server thread/INFO]: [chinojp69: Teleported Zerochileno to chinojp69]
+[02:18:05] [Server thread/INFO]: [chinojp69: Successfully filled 549 block(s)]
+[02:18:34] [Server thread/INFO]: [chinojp69: Successfully filled 566 block(s)]
+[02:19:09] [Server thread/INFO]: [chinojp69: Successfully filled 108 block(s)]
+[02:19:45] [Server thread/INFO]: [chinojp69: Successfully filled 108 block(s)]
+[02:20:25] [Server thread/INFO]: [chinojp69: Successfully filled 108 block(s)]
+[02:20:46] [Server thread/INFO]: [chinojp69: Successfully filled 108 block(s)]
+[02:21:03] [Server thread/INFO]: [chinojp69: Successfully filled 108 block(s)]
+[02:21:32] [Server thread/INFO]: [chinojp69: Successfully filled 108 block(s)]
+[02:22:15] [Server thread/INFO]: [chinojp69: Successfully filled 108 block(s)]
+[02:22:47] [Server thread/INFO]: [chinojp69: Successfully filled 108 block(s)]
+[02:23:13] [Server thread/INFO]: [chinojp69: Successfully filled 567 block(s)]
+[02:23:21] [Server thread/INFO]: Zerochileno lost connection: Timed out
+[02:23:21] [Server thread/INFO]: Zerochileno left the game
+[02:23:21] [Server thread/WARN]: handleDisconnection() called twice
+[02:23:33] [Server thread/INFO]: [chinojp69: Successfully filled 84 block(s)]
+[02:23:58] [Server thread/INFO]: [chinojp69: Successfully filled 108 block(s)]
+[02:24:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@413a4679[id=54dc45d7-b536-32c9-bd96-283c3f331aa9,name=Zerochileno,properties={}] lost connection: Timed out
+[02:24:16] [Server thread/INFO]: [chinojp69: Successfully filled 84 block(s)]
+[02:24:43] [Server thread/INFO]: [chinojp69: Successfully filled 567 block(s)]
+[02:26:07] [Server thread/INFO]: Zerochileno[/100.101.251.42:63534] logged in with entity id 18974 at (1475.935946784889, 45.0, 452.0820889444504)
+[02:26:07] [Server thread/INFO]: Zerochileno joined the game
+[02:26:42] [Server thread/INFO]: Zerochileno lost connection: Timed out
+[02:26:42] [Server thread/INFO]: Zerochileno left the game
+[02:37:33] [Server thread/INFO]: [chinojp69: Successfully filled 623 block(s)]
+[02:37:58] [Server thread/INFO]: [chinojp69: Successfully filled 166 block(s)]
+[02:38:29] [Server thread/INFO]: [chinojp69: Successfully filled 47 block(s)]
+[02:38:50] [Server thread/INFO]: [chinojp69: Successfully filled 55 block(s)]
+[02:38:59] [Server thread/INFO]: chinojp69 has reached the goal [Zombie Doctor]
+[02:39:14] [Server thread/INFO]: [chinojp69: Successfully filled 52 block(s)]
+[02:39:31] [Server thread/INFO]: [chinojp69: Successfully filled 169 block(s)]
+[02:49:20] [Server thread/INFO]: [chinojp69: Successfully filled 26 block(s)]
+[02:49:35] [Server thread/INFO]: [chinojp69: Successfully filled 13 block(s)]
+[02:49:53] [Server thread/INFO]: [chinojp69: Successfully filled 26 block(s)]
+[02:50:08] [Server thread/INFO]: [chinojp69: Successfully filled 13 block(s)]
+[02:52:43] [Server thread/INFO]: chinojp69 has made the advancement [What a Deal!]
+[03:04:54] [Server thread/INFO]: chinojp69 has made the advancement [Getting an Upgrade]
+[03:20:53] [Server thread/INFO]: chinojp69 has completed the challenge [Cover Me in Debris]
+[03:35:34] [Server thread/INFO]: chinojp69 lost connection: Disconnected
+[03:35:34] [Server thread/INFO]: chinojp69 left the game
+[03:35:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:35:39] [Server thread/INFO]: 	stop<--[HERE]
+[03:35:43] [Server thread/INFO]: Stopping the server
+[03:35:43] [Server thread/INFO]: Stopping server
+[03:35:43] [Server thread/INFO]: Saving players
+[03:35:43] [Server thread/INFO]: Saving worlds
+[03:35:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:35:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:35:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:35:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:35:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:35:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:35:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
